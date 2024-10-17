@@ -32,12 +32,6 @@ Key Features:
 - **Powerful ML Models**: Our models correlate both structured and unstructured data to generate unique, valuable insights for patients and providers alike.
 - **User-Centric Design**: We focused on creating a user-friendly experience, because clear understanding is just as important as accuracy.
 
-## 🚀 What's Next
-
-We’re excited to continue improving **MedLingua** by:
-- Expanding our datasets and improving our NLP capabilities to handle even more complex medical text.
-- Partnering with healthcare providers to bring **MedLingua** into real-world clinical environments.
-- Scaling globally to simplify healthcare communication for millions of patients and providers worldwide.
 
 ## 👥 Team Members
 - **Punit Arani**
